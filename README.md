@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Samir from Dhaka, BD<br><br>- 🔭 I’m working as a SWE Intern<br>- 📚 I'm currently learning ML and TS</p>
+<p align="left"><br>- 🔭 I’m working as a SWE Intern<br>- 📚 I'm currently learning ML and TS</p>
 
 ###
 
