@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hello Wonderer, 👋</h1>
+<h1 align="center">Hello Wonderer, I'm Jubair Samir 👋</h1>
 
 ###
 
