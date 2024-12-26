@@ -25,11 +25,11 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as a SWE Intern<br>- 📚 I'm currently learning ML and TS</p>
+<p align="left"><br>- 🔭 I’m working as a SWE at W.I.Z Co. LTD<br>- 📚 I'm currently working as Full Stack engineer</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
