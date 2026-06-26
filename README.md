@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as a SWE at W.I.Z Co. LTD<br>- 📚 I'm currently working as Full Stack engineer</p>
+<p align="left"><br>- 🔭 I’m working as a SWE at W.I.Z Co. LTD<br>- 📚 I'm currently working as a Full Stack engineer</p>
 
 ###
 
